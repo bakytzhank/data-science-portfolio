@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 ## Introduction
-I'm passionate about data science and AI, focusing on [your specific interests].
+A newly minted data scientist with a solid foundation from a rigorous bootcamp and a prior career in Control Systems Engineering. My expertise includes Python, SQL, and various machine learning techniques. I'm excited to apply my diverse skill set to solve real-world problems. Check out my projects and feel free to reach out to me
 
 ## Projects
 
