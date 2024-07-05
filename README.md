@@ -7,30 +7,30 @@ A newly minted data scientist with a solid foundation from a rigorous bootcamp a
 
 ### Project 1: Titanic Dataset
 - **Objective:** Predict the survival of passengers on the Titanic.
-- **Techniques Used:** Data cleaning, feature engineering, logistic regression, decision trees, random forest, hyperparameter tuning.
+- **Techniques Used:** Data Cleaning, Feature Engineering, Logistic Regression, Decision Trees, Random Forest, Hyperparameter Tuning.
 - **Tools:** Python, Pandas, Scikit-learn, Jupyter Notebooks.
 - **Outcome:** Achieved an accuracy of 82% with Random Forest model.
 - **Details:** This project is split into two parts:
   - **Part 1:** [Feature engineering.](titanic_dataset/Titanic_Dataset_part1_feature_engineering.ipynb)
-  - **Part 2:** Solving the classification problem.
+  - **Part 2:** [Solving the classification problem.](titanic_dataset/Titanic_Dataset_part2_solving_classification_problem.ipynb)
 
-### Project 2: Weight Prediction
-- **Objective:** Predict the weight of individuals based on various features.
-- **Techniques Used:** Linear regression, data cleaning.
+### Project 2: [Weight Prediction](weight_prediction/Weight_prediction.ipynb)
+- **Objective:** Predict the weight of individuals based on gender and height.
+- **Techniques Used:** Linear Regression, Decision Tree, Random Forest, Data Transformation.
 - **Tools:** Python, Pandas, Scikit-learn.
 - **Outcome:** Created a simple yet effective model for weight prediction.
 
-### Project 3: Fake News Detector
+### Project 3: [Fake News Detector](fake_news_detector/Fake_news_detector.ipynb)
 - **Objective:** Classify news articles as real or fake.
-- **Techniques Used:** Natural Language Processing (NLP), TF-IDF, Naive Bayes.
+- **Techniques Used:** Natural Language Processing (NLP), TF-IDF, Naive Bayes, Passive Aggressive Classifier, SVM Classifier.
 - **Tools:** Python, NLTK, Scikit-learn.
-- **Outcome:** Developed a model with an accuracy of Y% on the test set.
+- **Outcome:** Developed a model with a score 93% on the test set.
 
-### Project 4: Predictive Maintenance
-- **Objective:** Predict equipment failures to enable proactive maintenance.
-- **Techniques Used:** Time series analysis, feature engineering, random forests.
-- **Tools:** Python, Pandas, Scikit-learn.
-- **Outcome:** Implemented a model that reduced downtime by Z%.
+### Project 4: [Predictive Maintenance](https://predmaintdemo.streamlit.app/)
+- **Objective:** Predict Remaining Useful Life (RUL) of equipment to enable proactive maintenance.
+- **Techniques Used:** Feature Engineering, Linear Regression, Support Vector Regression, Random Forest, XGBoost, Hyperparameter Tuning.
+- **Tools:** Python, Pandas, Scikit-learn, XGBoost, Streamlit.
+- **Outcome:** Implemented a model that predicts RUL with RMSE ~18.
 
 ## Skills
 - Machine Learning
@@ -38,6 +38,10 @@ A newly minted data scientist with a solid foundation from a rigorous bootcamp a
 - Statistical Analysis
 - SQL Databases
 - NLP
+- Programming Languages:
+  - C
+  - Python
+  - Golang
 
 ## Experience
 
@@ -55,6 +59,10 @@ A newly minted data scientist with a solid foundation from a rigorous bootcamp a
 ## Education
 - **Data Science Bootcamp**, Outpeer.kz School, 2023-2024
 - **Software Engineering Bootcamp**, QWANT (Tech Orda Program), 2023-2024
+- **Data Analyst in SQL**, Datacamp, 2023
+- **Applied Data Science with Python**, World Quant University, 2021
+- **Cloud Engineering with Google Cloud**, Coursera, 2020
 - **M.Sc. in Advanced Control & Systems Engineering**, University of Manchester, 2014-2015
+- **B.Sc. in Economics**, Moscow Power Engineering Institute (Technical University), 2008-2011
 - **B.Sc. in Radio Engineering, Electronics and Telecommunications**, Almaty University of Power Engineering and Telecommunications, 2007-2011
 
