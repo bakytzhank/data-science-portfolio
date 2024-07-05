@@ -7,17 +7,26 @@ A newly minted data scientist with a solid foundation from a rigorous bootcamp a
 
 ### Project 1: Titanic Dataset
 - **Objective:** Predict the survival of passengers on the Titanic.
-- **Techniques Used:** Data cleaning, feature engineering, logistic regression, decision trees.
-- **Tools:** Python, Pandas, Scikit-learn.
-- **Outcome:** Achieved an accuracy of X% with model Y.
+- **Techniques Used:** Data cleaning, feature engineering, logistic regression, decision trees, random forest, hyperparameter tuning.
+- **Tools:** Python, Pandas, Scikit-learn, Jupyter Notebooks.
+- **Outcome:** Achieved an accuracy of 82% with Random Forest model.
+- **Details:** This project is split into two parts:
+  - **Part 1:** [Feature engineering.](titanic_dataset/Titanic_Dataset_part1_feature_engineering.ipynb)
+  - **Part 2:** Solving the classification problem.
 
-### Project 2: Fake News Detector
+### Project 2: Weight Prediction
+- **Objective:** Predict the weight of individuals based on various features.
+- **Techniques Used:** Linear regression, data cleaning.
+- **Tools:** Python, Pandas, Scikit-learn.
+- **Outcome:** Created a simple yet effective model for weight prediction.
+
+### Project 3: Fake News Detector
 - **Objective:** Classify news articles as real or fake.
 - **Techniques Used:** Natural Language Processing (NLP), TF-IDF, Naive Bayes.
 - **Tools:** Python, NLTK, Scikit-learn.
 - **Outcome:** Developed a model with an accuracy of Y% on the test set.
 
-### Project 3: Predictive Maintenance
+### Project 4: Predictive Maintenance
 - **Objective:** Predict equipment failures to enable proactive maintenance.
 - **Techniques Used:** Time series analysis, feature engineering, random forests.
 - **Tools:** Python, Pandas, Scikit-learn.
