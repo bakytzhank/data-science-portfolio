@@ -45,7 +45,7 @@ A newly minted data scientist with a solid foundation from a rigorous bootcamp a
 
 ## Experience
 
-- **Data Science Bootcamp Participant**, Outpeer.kz School, October 2023 - May 2024
+- **Data Science Bootcamp Participant**, Outpeer.kz School, October 2023 - June 2024
   - Completed intensive data science training, finishing as one of the top 10 students.
   - Developed projects involving data cleaning, analysis, and machine learning.
 
@@ -57,6 +57,7 @@ A newly minted data scientist with a solid foundation from a rigorous bootcamp a
   - Applied analytical skills to optimize control systems and improve operational efficiency.
 
 ## Education
+- **[Certified Data Engineer Associate](https://www.datacamp.com/certificate/DEA0014066961018)**, Datacamp, 2024
 - **Data Science Bootcamp**, Outpeer.kz School, 2023-2024
 - **Software Engineering Bootcamp**, QWANT (Tech Orda Program), 2023-2024
 - **Data Analyst in SQL**, Datacamp, 2023
